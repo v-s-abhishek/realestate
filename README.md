@@ -27,3 +27,6 @@ This project is a **real estate website** designed to make property browsing and
 1. Clone the repository:
    ```bash
    git clone https://github.com/v-s-abhishek/realestate.git
+
+## Deployement
+link : https://cool-jalebi-979d4b.netlify.app/
